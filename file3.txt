@@ -1,2 +1,2 @@
 first branch changes in file3
-first branch changes in file3
+first branch changes in file3this is the update in branch folder
